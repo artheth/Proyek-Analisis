@@ -1,0 +1,248 @@
+﻿,customer_city,count_canceled,percent_orders_canceled
+0,sao paulo,140,22.400000000000002
+1,rio de janeiro,48,7.68
+2,belo horizonte,17,2.7199999999999998
+3,guarulhos,13,2.08
+4,campinas,11,1.76
+5,curitiba,10,1.6
+6,sao bernardo do campo,8,1.28
+7,osasco,8,1.28
+8,brasilia,7,1.1199999999999999
+9,goiania,7,1.1199999999999999
+10,sorocaba,7,1.1199999999999999
+11,jundiai,6,0.96
+12,santo andre,6,0.96
+13,florianopolis,5,0.8
+14,porto alegre,5,0.8
+15,governador valadares,4,0.64
+16,niteroi,4,0.64
+17,piracicaba,4,0.64
+18,fortaleza,4,0.64
+19,contagem,4,0.64
+20,vila velha,4,0.64
+21,sumare,4,0.64
+22,barueri,4,0.64
+23,santana de parnaiba,4,0.64
+24,mogi das cruzes,4,0.64
+25,sao carlos,4,0.64
+26,salvador,4,0.64
+27,sao jose dos campos,4,0.64
+28,itu,3,0.48
+29,taubate,3,0.48
+30,jacarei,3,0.48
+31,maringa,3,0.48
+32,petropolis,3,0.48
+33,santos,3,0.48
+34,sao luis,3,0.48
+35,praia grande,3,0.48
+36,cabo frio,2,0.32
+37,barra do pirai,2,0.32
+38,nova friburgo,2,0.32
+39,teresina,2,0.32
+40,vespasiano,2,0.32
+41,sao vicente,2,0.32
+42,sao roque,2,0.32
+43,caieiras,2,0.32
+44,taboao da serra,2,0.32
+45,americana,2,0.32
+46,vitoria da conquista,2,0.32
+47,belem,2,0.32
+48,vitoria,2,0.32
+49,timoteo,2,0.32
+50,anapolis,2,0.32
+51,caraguatatuba,2,0.32
+52,uberaba,2,0.32
+53,ponte nova,2,0.32
+54,itaborai,2,0.32
+55,porto velho,2,0.32
+56,itaquaquecetuba,2,0.32
+57,limeira,2,0.32
+58,francisco morato,2,0.32
+59,indaiatuba,2,0.32
+60,medianeira,2,0.32
+61,maua,2,0.32
+62,marica,2,0.32
+63,macae,2,0.32
+64,pelotas,2,0.32
+65,curvelo,2,0.32
+66,diadema,2,0.32
+67,montes claros,2,0.32
+68,joinville,2,0.32
+69,duque de caxias,2,0.32
+70,registro,2,0.32
+71,joao pessoa,2,0.32
+72,embu das artes,2,0.32
+73,recife,2,0.32
+74,divinopolis,2,0.32
+75,jaboatao dos guararapes,2,0.32
+76,barra mansa,1,0.16
+77,bauru,1,0.16
+78,barrinha,1,0.16
+79,bage,1,0.16
+80,barra de sao francisco,1,0.16
+81,balneario camboriu,1,0.16
+82,belford roxo,1,0.16
+83,bady bassitt,1,0.16
+84,jacobina,1,0.16
+85,caxambu,1,0.16
+86,bento goncalves,1,0.16
+87,betim,1,0.16
+88,catanduva,1,0.16
+89,caxias do sul,1,0.16
+90,alegrete,1,0.16
+91,ituiutaba,1,0.16
+92,jaboticabal,1,0.16
+93,atibaia,1,0.16
+94,bilac,1,0.16
+95,andradina,1,0.16
+96,arealva,1,0.16
+97,blumenau,1,0.16
+98,jequie,1,0.16
+99,capanema,1,0.16
+100,carangola,1,0.16
+101,carapicuiba,1,0.16
+102,cariacica,1,0.16
+103,castanhal,1,0.16
+104,castilho,1,0.16
+105,borborema,1,0.16
+106,nhandeara,1,0.16
+107,araxa,1,0.16
+108,artur nogueira,1,0.16
+109,angra dos reis,1,0.16
+110,aparecida de goiania,1,0.16
+111,aracaju,1,0.16
+112,aragarcas,1,0.16
+113,araguaina,1,0.16
+114,arandu,1,0.16
+115,araraquara,1,0.16
+116,jales,1,0.16
+117,guaruja,1,0.16
+118,juiz de fora,1,0.16
+119,ferraz de vasconcelos,1,0.16
+120,criciuma,1,0.16
+121,cristina,1,0.16
+122,cruz alta,1,0.16
+123,dourados,1,0.16
+124,dumont,1,0.16
+125,eliseu martins,1,0.16
+126,erechim,1,0.16
+127,esteio,1,0.16
+128,franca,1,0.16
+129,conchas,1,0.16
+130,francisco beltrao,1,0.16
+131,gaspar,1,0.16
+132,guanambi,1,0.16
+133,candeias,1,0.16
+134,ibira,1,0.16
+135,ipatinga,1,0.16
+136,itaberaba,1,0.16
+137,itabirito,1,0.16
+138,cotia,1,0.16
+139,claudio,1,0.16
+140,lencois paulista,1,0.16
+141,mateus leme,1,0.16
+142,linhares,1,0.16
+143,lins,1,0.16
+144,londrina,1,0.16
+145,lucas do rio verde,1,0.16
+146,chapeco,1,0.16
+147,mafra,1,0.16
+148,mage,1,0.16
+149,maracanau,1,0.16
+150,mineiros,1,0.16
+151,itaguai,1,0.16
+152,mogi-guacu,1,0.16
+153,monte carmelo,1,0.16
+154,monte gordo,1,0.16
+155,monte mor,1,0.16
+156,muriae,1,0.16
+157,itaperuna,1,0.16
+158,italva,1,0.16
+159,itajai,1,0.16
+160,cangucu,1,0.16
+161,santa gertrudes,1,0.16
+162,campos gerais,1,0.16
+163,pedro de toledo,1,0.16
+164,visconde do rio branco,1,0.16
+165,vilhena,1,0.16
+166,virginopolis,1,0.16
+167,paranagua,1,0.16
+168,paranavai,1,0.16
+169,passo fundo,1,0.16
+170,una,1,0.16
+171,pecanha,1,0.16
+172,vinhedo,1,0.16
+173,rio das ostras,1,0.16
+174,pocos de caldas,1,0.16
+175,pirai,1,0.16
+176,piratininga,1,0.16
+177,ribeirao preto,1,0.16
+178,rio bonito,1,0.16
+179,sao leopoldo,1,0.16
+180,sao jose do rio preto,1,0.16
+181,sao jose,1,0.16
+182,palmital de minas,1,0.16
+183,votorantim,1,0.16
+184,palhoca,1,0.16
+185,olimpia,1,0.16
+186,piracaia,1,0.16
+187,pindamonhangaba,1,0.16
+188,picos,1,0.16
+189,vacaria,1,0.16
+190,uruguaiana,1,0.16
+191,valinhos,1,0.16
+192,uniao dos palmares,1,0.16
+193,piao,1,0.16
+194,vargem alegre,1,0.16
+195,varginha,1,0.16
+196,peruibe,1,0.16
+197,santo antonio de padua,1,0.16
+198,penha,1,0.16
+199,paracuru,1,0.16
+200,nova iguacu,1,0.16
+201,novo gama,1,0.16
+202,novo hamburgo,1,0.16
+203,sao joao de meriti,1,0.16
+204,sao goncalo,1,0.16
+205,campos do jordao,1,0.16
+206,cacapava,1,0.16
+207,promissao,1,0.16
+208,seara,1,0.16
+209,abre campo,1,0.16
+210,lorena,1,0.16
+211,nilopolis,1,0.16
+212,campina da lagoa,1,0.16
+213,brodowski,1,0.16
+214,buenopolis,1,0.16
+215,cacequi,1,0.16
+216,rio grande,1,0.16
+217,cafeara,1,0.16
+218,cafelandia,1,0.16
+219,caibate,1,0.16
+220,cajamar,1,0.16
+221,camamu,1,0.16
+222,camboriu,1,0.16
+223,campo grande,1,0.16
+224,boa vista,1,0.16
+225,presidente prudente,1,0.16
+226,presidente dutra,1,0.16
+227,serrinha,1,0.16
+228,sertaozinho,1,0.16
+229,rio grande da serra,1,0.16
+230,sao gabriel,1,0.16
+231,salto,1,0.16
+232,santa cruz do capibaribe,1,0.16
+233,santa luzia,1,0.16
+234,sao manuel,1,0.16
+235,quissama,1,0.16
+236,quata,1,0.16
+237,potirendaba,1,0.16
+238,pitangueiras,1,0.16
+239,sao caetano do sul,1,0.16
+240,porto ferreira,1,0.16
+241,porto seguro,1,0.16
+242,tatui,1,0.16
+243,sobral,1,0.16
+244,sinop,1,0.16
+245,sapiranga,1,0.16
+246,wenceslau guimaraes,1,0.16
